@@ -1,0 +1,26 @@
+﻿
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : [{"_id":"68a0858962dc5c30491477bf","name":"Полилеи","image":"","isActi
+                    ve":true,"sortOrder":0,"slug":"polilei","createdAt":"2025-08-16T13:20:
+                    09.359Z","updatedAt":"2025-08-16T13:20:09.359Z","__v":0},{"_...
+RawContent        : HTTP/1.1 200 OK
+                    Vary: Origin
+                    Access-Control-Allow-Credentials: true
+                    Connection: keep-alive
+                    Keep-Alive: timeout=5
+                    Content-Length: 1219
+                    Content-Type: application/json; charset=utf-8
+                    Date: Sat, 16...
+Forms             : {}
+Headers           : {[Vary, Origin], [Access-Control-Allow-Credentials, true], [Connection
+                    , keep-alive], [Keep-Alive, timeout=5]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 1219
+
+
+
