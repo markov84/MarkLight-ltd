@@ -90,8 +90,9 @@ npm run dev
 ## 🔐 Demo Accounts
 
 ### Admin Account
+- **Username**: admin
 - **Email**: admin@luxury.com
-- **Password**: password123
+- **Password**: asdasd
 - **Permissions**: Full admin access, product management
 
 ### Regular User Account
